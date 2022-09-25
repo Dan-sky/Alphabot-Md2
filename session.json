@@ -65,7 +65,8 @@
         }
       }
     ],
-    "lastAccountSyncTimestamp": 1663742040
+    "lastAccountSyncTimestamp": 1663742040,
+    "myAppStateKeyId": "AAAAADX3"
   },
   "keys": {
     "preKeys": {
@@ -386,8 +387,8 @@
             "_chains": {
               "BRGt6Dpmuti0l5UdTtq8xVLB7ZCh0DG1DKjboTHi1lIU": {
                 "chainKey": {
-                  "counter": 0,
-                  "key": "K7ClCx4c8XOFDWzaYFCeETjSlYxSC1SuMvwfqHo70oo="
+                  "counter": 2,
+                  "key": "6Oq6a36KaH0yZAEvdJnRvxKb3uf0XPNIYg2bgIoHI+U="
                 },
                 "chainType": 2,
                 "messageKeys": {}
@@ -404,6 +405,59 @@
           }
         },
         "version": "v1"
+      }
+    },
+    "appStateSyncKeys": {
+      "AAAAADX6": {
+        "keyData": "3EFQLluEu2EFw/8Gtzk49RGEk5NgSaALJaxVcZ0p2wQ=",
+        "fingerprint": {
+          "rawId": 1543177286,
+          "currentIndex": 5,
+          "deviceIndexes": [
+            0,
+            2,
+            5
+          ]
+        },
+        "timestamp": "1661677202973"
+      },
+      "AAAAADX4": {
+        "keyData": "w7vOGdQOuxly9UqxQAfsXto5kWg7ZCW7QaopDtvaXrA=",
+        "fingerprint": {
+          "rawId": 1543177286,
+          "currentIndex": 2,
+          "deviceIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        "timestamp": "1661642804202"
+      },
+      "AAAAADX5": {
+        "keyData": "DaKC9yNZXgLtZKJUDK0xIOaJ/wchdZVdvG2jg+2wXnw=",
+        "fingerprint": {
+          "rawId": 1543177286,
+          "currentIndex": 4,
+          "deviceIndexes": [
+            0,
+            2,
+            4
+          ]
+        },
+        "timestamp": "1661643112724"
+      },
+      "AAAAADX3": {
+        "keyData": "nQrRN/yTGbv4Po0LrAt9n0aD0xA4mFdzVRlRKMfICo0=",
+        "fingerprint": {
+          "rawId": 1543177285,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "0"
       }
     }
   }
